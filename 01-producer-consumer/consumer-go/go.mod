@@ -1,4 +1,4 @@
-module fbidu/receiver
+module fbidu/consume
 
 go 1.13
 
